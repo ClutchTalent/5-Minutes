@@ -1,7 +1,4 @@
-@font-face {
-    font-family: Oswald;
-    src: url(https://fonts.googleapis.com/css?family=Oswald);
-}
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 
 * {
   box-sizing: border-box; }
